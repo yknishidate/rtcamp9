@@ -7,7 +7,7 @@
 
 ## 結果
 
-![result](./result.mp4)
+https://github.com/yknishidate/vk_meshlet_culling/assets/30839669/9ce75682-5e97-4859-a231-fc5d96ff3c59
 
 ## その他
 
